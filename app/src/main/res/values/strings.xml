@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">19429041_NguyenThiThanhHoa_AD_ToDoApp</string>
+    <string name="status">Not complete</string>
+    <string name="taskToDo">taskToDo</string>
+    <string name="add_task">Add your task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">cancel</string>
+    <string name="save">Save</string>
+    <string name="page_title">To Do App</string>
+    <string name="deadline">deadline</string>
+    <string name="add_deadline">Deadline</string>
+</resources>

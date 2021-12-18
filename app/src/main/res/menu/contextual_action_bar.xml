@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/btnEdit"
+        android:icon="@drawable/ic_edit"
+        android:title="edit"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/btnDelete"
+        android:icon="@drawable/ic_delete"
+        android:title="delete"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/btnCheck"
+        android:icon="@drawable/ic_check"
+        android:title="check"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+</menu>
+
